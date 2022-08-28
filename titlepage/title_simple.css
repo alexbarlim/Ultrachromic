@@ -1,6 +1,6 @@
 /*Tweak series/movie/album title screen*/
 .detailImageContainer .card {
-  position: fixed !important;
+/*  position: fixed !important; */
   top: 10% !important;
 }
 .detailSectionContent {
