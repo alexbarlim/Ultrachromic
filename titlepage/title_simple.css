@@ -1,7 +1,7 @@
 /*Tweak series/movie/album title screen*/
 .detailImageContainer .card {
   position: fixed !important;
-  top: 20% !important;
+  top: 10% !important;
 }
 .detailSectionContent {
   max-width: 66em;
@@ -18,11 +18,11 @@
 .layout-desktop .detailRibbon {
   background: rgba(0,0,0,0) !important;
 }
-@media all and (min-width: 32em){
+@media all and (min-width: 30em){
   .itemBackdrop {
     display: none;
   }
 	.layout-desktop .detailRibbon {
-    margin-top: 13vh;
+    margin-top: 10vh;
 	}
 }
